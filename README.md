@@ -1,2 +1,2 @@
 # demo-repo
-For Demo purpose only
+For Demo purposes only
